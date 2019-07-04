@@ -1,0 +1,9 @@
+F:\Demo_CafeManager\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+F:\Demo_CafeManager\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+F:\Demo_CafeManager\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+F:\Demo_CafeManager\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+F:\Demo_CafeManager\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+F:\Demo_CafeManager\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+F:\Demo_CafeManager\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+F:\Demo_CafeManager\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+F:\Demo_CafeManager\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
